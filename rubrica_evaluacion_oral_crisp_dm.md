@@ -157,9 +157,10 @@ Los valores decimales se muestran redondeados; cada bloque suma exactamente 25%.
 
 ### Notebook
 
-- [ ] El archivo tiene extension `.ipynb`.
+- [ ] El archivo tiene extension `.ipynb`. (nombre: evaluacion_procesual_hito_{numero de hito})
 - [ ] El codigo esta ejecutado y sus resultados son visibles.
 - [ ] La metrica puede reproducirse desde el codigo.
 - [ ] Los analisis de faltantes, atipicos, distribuciones y relaciones tienen evidencia.
 - [ ] Las conclusiones estan escritas y se relacionan con los resultados.
 - [ ] El notebook coincide con lo expuesto en las diapositivas.
+- [ ] Cuento con mi repositorio del proyecto y subo ahi el archivo
