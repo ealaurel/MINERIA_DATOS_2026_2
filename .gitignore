@@ -2,9 +2,15 @@
 preguntas_crisp_dm.md
 preguntas_hito_3_modelado.md
 evaluacion2_practica_hito3.md
+evaluacion2_practica_hito3_v2.md
 crear_formulario_crisp_dm.gs
 crear_formulario_hito_3_modelado.gs
 crear_encuesta_usdt.gs
 evaluacion_grupal_proyecto_crisp_dm.md
 evaluacion1_grupal_proyecto_crisp_dm.md
 crear_formulario_evaluacion_grupal_crisp_dm.gs
+
+# omitir archivos ipynb para habilitar luego
+h4_3_dbscan_ifood.ipynb
+h4_4_gaussian_mixture_ifood.ipynb
+h4_5_clustering_jerarquico_ifood.ipynb
